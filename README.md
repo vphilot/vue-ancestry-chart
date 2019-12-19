@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-ancestru-chart
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-ancestry-chart
+vue-ancestry-chart
+>>>>>>> refs/remotes/origin/master
