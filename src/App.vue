@@ -125,7 +125,6 @@ import { type } from 'os';
       let h = Math.abs(360-(iterator * 10));
       let s = Math.abs(100-iterator*2);
       let l = 70;
-      console.log(`hsl(${h},${s}%,${l}%)`);
       return `hsl(${h},${s}%,${l}%)`;
 
     }
